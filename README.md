@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=Hi,%20I'm%20Hyojin&fontSize=90)
 
-<img align="left" alt="HJNJu's Github Stats" src="https://github-readme-stats-phi-two-95.vercel.app/api?username=HJNJu&show_icons=true&theme=buefy" />
-<img align="left" alt="HJNJu's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJNJu&layout=compact" />  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJNJu&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HJNJu&layout=compact)
+
 
 <img alt="Cdoing" width="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--jbblUf9N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/twxlvixc93j8vmm4zp53.gif">
 
