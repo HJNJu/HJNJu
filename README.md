@@ -9,7 +9,7 @@ I enjoy translating business needs into interactive and impactful user interface
 <br>
 I look forward to solving real-world problems, learning from experienced developers, 
 <br>
-and bringing my creative ideas to life through code.
+and bringing my own ideas to life through code.
 
 <br>
 
