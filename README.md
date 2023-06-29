@@ -5,7 +5,7 @@
 
 As an aspiring Frontend Developer,
 <br>
-I enjoy translating business needs into interactive and impactful user interfaces.
+I thrive on translating business needs into interactive and impactful user interfaces.
 <br>
 I look forward to solving real-world problems, learning from experienced developers, 
 <br>
