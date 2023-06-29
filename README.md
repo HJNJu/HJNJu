@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=250&section=header&text=Hi,%20I'm%20Hyojin&fontSize=80&fontColor=524152)
 
-As an aspiring Frontend Developer,403240
+As an aspiring Frontend Developer,
 <br>
 I enjoy translating business needs into interactive and impactful user interfaces.
 <br>
