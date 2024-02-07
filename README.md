@@ -3,13 +3,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=250&section=header&text=Hi,%20I'm%20Hyojin&fontSize=80&fontColor=524152)
 
-As an aspiring Frontend Developer,
+My journey has evolved from a focused Frontend Developer to a Fullstack Developer, 
 <br>
-I thrive on translating business needs into interactive and impactful user interfaces.
+and I eagerly embrace the opportunity to leverage both frontend and backend technologies.
 <br>
-I look forward to solving real-world problems, learning from experienced developers, 
+I am committed to continuous learning, drawing insights from seasoned developers,
 <br>
-and bringing fun ideas to life through code.
+and transforming creative ideas into reality through the power of code.
 
 <br>
 
